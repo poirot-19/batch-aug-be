@@ -1,6 +1,6 @@
 package JavaStrings;
 
-public class StringBuilderExample implements WebSocketMessageBrokerConfigurer{
+public class StringBuilderExample{
     public static void main(String[] args) {
         int n = 1000000;
 //        funWithStrings(n);
