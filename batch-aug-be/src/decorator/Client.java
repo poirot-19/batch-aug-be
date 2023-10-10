@@ -20,19 +20,5 @@ public class Client {
 
         System.out.println(iceCreamConeConstituents.getDescription());
         System.out.println(iceCreamConeConstituents.getCost());
-
-        // Text t = new Text("Hello World");
-        // t.setFontSize(20);
-        // Paragraph p = new Paragraph(t);
-        // p.setMargin(1.5 rem);
-        // Body b = new Body(p);
-        // class Body {
-        //  private List<HTMLElement> htmlEleements;
-        //  public Body(List<HTMLELement>) {
-        //
-        //  }
-        // }
-
-        // b.display() -> p.display() -> t.display()
     }
 }
