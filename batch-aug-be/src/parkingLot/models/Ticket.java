@@ -2,7 +2,7 @@ package caseStudies.parkingLot.models;
 
 import java.util.Date;
 
-public class Ticket {
+public class Ticket extends BaseModel{
     private String number;
     private Date entryTime;
     private ParkingSpot parkingSpot;
